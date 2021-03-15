@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.head1{
+    text-align: center;
+    background-color: blanchedalmond;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.text{
+    padding: 30px;
+    background-color: lightsteelblue;
+    border: 5px solid grey;
+}
+.milaimg{
+    height: 400px;
+    justify-content: center;
+}
+.milaimg{
+    display: flex;
+    height: 300px;
+}
+.imgs{
+    height: 300px;
+}
