@@ -1,0 +1,95 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+a{
+    color: black
+}
+a:hover{
+    color: slateblue;
+    font-size: large;
+}
+.head{
+    display: flex;
+
+}
+.silka{
+    padding: 10px;
+    margin-top: 10px;
+    border: 2px solid cornflowerblue;
+}
+.content1{
+    display: inline-flex;
+    margin-top: 20px;
+}
+.content2{
+    margin-left: 500px;
+    display: inline-flex;
+    margin-top: 20px;
+}
+.content3{
+    background-color: lightsteelblue;
+    text-align: center;
+    height: 50px;
+    width: 700px;
+    justify-content: center;
+    margin-left: 150px;
+}
+input{
+    margin-left: 10px;
+}
+.left{
+    height: 100%;
+    width: 250px;
+    background-color: gainsboro;
+    border-right: 2px solid slategray;
+    margin-right: 5px;
+}
+h2, .descript{
+    margin: 10px;
+}
+.block{
+    border: 2px solid black;
+    width: 150px;
+}
+.history, .place{
+    margin-top: 10px;
+}
+.down{
+    margin-top: 20px;
+    display: flex;
+    width: 500px;
+}
+#viki{
+    width: 240px;
+    height: 240px;
+}
+.lin{
+    margin-left: 5px;
+}
+.leftcontent{
+    margin-top: 10px;
+}
+.consist{
+    display: flex;
+}
+.right{
+    width: 250px;
+    background-color: azure;
+    margin-left: 5px;
+    border: 2px solid slategray;
+}
+.m{
+    display: inline-flex;
+    justify-content: space-between;
+    white-space: pre;
+    margin-top: 10px;
+}
+.map{
+    margin-top: 5px;
+    background-color: cornflowerblue;
+}
+.spr{
+    width: 250px;
+}
